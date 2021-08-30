@@ -10,8 +10,6 @@ jarallaxElement();
 // Add Jarallax on DOM Node.
 jarallax(document.querySelectorAll('[data-jarallax-element]'));
 
-//ShowMediaOnHover();
-
 function init() {
 	window.$ = $;
 	window.jQuery = $;

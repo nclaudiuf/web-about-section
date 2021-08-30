@@ -118,6 +118,7 @@ img.hover-effect:hover {
 	opacity: 0.6;
 	width: auto !important;
 	height: 48px !important;
+	max-height: 42px !important;
 }
 .s-clients ul li {
 	margin: 0 auto;

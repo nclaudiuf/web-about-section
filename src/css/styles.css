@@ -116,7 +116,7 @@ img.hover-effect:hover {
 /* Client Section */
 .s-clients ul li img {
 	opacity: 0.6;
-	width: 80% !important;
+	width: auto !important;
 	height: 48px !important;
 }
 .s-clients ul li {

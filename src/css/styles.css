@@ -59,7 +59,7 @@ img.hover-effect:hover {
 
 /* Client Section */
 .s-clients ul li img {
-	opacity: 0.6;
+	opacity: 0.4;
 	width: auto !important;
 	height: 48px !important;
 	max-height: 42px !important;

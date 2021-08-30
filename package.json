@@ -1,7 +1,7 @@
 {
   "name": "portfolio-about-section",
   "version": "1.0.0",
-  "description": "Claudiu Furca Product / Service Designer Portfolio ",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
